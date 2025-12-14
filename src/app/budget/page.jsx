@@ -54,6 +54,7 @@ export default function BudgetPage() {
         }
     };
 
+
     return (
         <div className="container mx-auto p-4 max-w-md pb-20">
             <div className="flex items-center gap-4 mb-6">
