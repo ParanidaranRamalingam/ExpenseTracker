@@ -14,6 +14,11 @@ const geistMono = Geist_Mono({
 export const metadata = {
     title: "Expense Tracker",
     description: "Personal expense tracker app",
+    manifest: "/manifest.json",
+    icons: {
+        icon: "/icon.png",
+        apple: "/icon.png",
+    },
 };
 
 import { Toaster } from "sonner";
