@@ -16,8 +16,8 @@ export const metadata = {
     description: "Personal expense tracker app",
     manifest: "/manifest.json",
     icons: {
-        icon: "/icon.png",
-        apple: "/icon.png",
+        icon: "/app-icon.png",
+        apple: "/app-icon.png",
     },
 };
 
