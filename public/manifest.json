@@ -9,9 +9,17 @@
     "icons": [
         {
             "src": "/app-icon.png",
-            "sizes": "192x192 512x512",
+            "sizes": "2048x2048",
             "type": "image/png",
             "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/app-icon.png",
+            "sizes": "2048x2048",
+            "type": "image/png",
+            "form_factor": "wide"
         }
     ]
 }
